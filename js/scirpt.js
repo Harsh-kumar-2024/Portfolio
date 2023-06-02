@@ -38,7 +38,7 @@ ScrollReveal().reveal('.home-img, .contact form', { origin: 'bottom'});
 ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left'});
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Student .', 'Web Developer .', 'Software Developer .', 'Machine Learning Engineer .'],
+    strings: ['Student .', 'Problem Solver .', 'FullStack Web Developer .', 'Software Developer .'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
